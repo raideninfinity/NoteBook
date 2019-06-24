@@ -18,7 +18,31 @@
 
 > The modules of this app are:
 
+> - Note List Module
+
+> - Note Edit Module
+
+> - SQLite Database Module
+
+> - User Account Module
+
+> - Online Synchronization Module
+
 > The functionalities of this app are: 
+
+> - New Note - Users are able to create new plain text notes.
+
+> - View/Edit Note - Users are able to view and edit existing notes.
+
+> - Delete Note - Users are able to delete unwanted notes.
+
+> - Sign Up - Users are able to sign up for an account for online sync-ing
+
+> - Sign In/Sign Out - Users are able to sign in with and sign out of existing accounts
+
+> - Online Backup - Notes are backed up in a web server.
+
+> - Online Synchronization - Notes can be retrieved from the web server and be synchronized across devices.
 
 ### - **Libraries Used**
 
