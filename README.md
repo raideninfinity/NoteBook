@@ -2,7 +2,23 @@
 
 ### - **Project Description**
 
+> This project's aim is to create a note-taking native Android mobile app with online synchronization across devices.
+
+> The app enables users to quickly write down their thoughts, draft out memos, or store any text that they want to keep around for any length of time. 
+
+> The app provides users the functionality of creating new notes, editing notes, or delete notes that are not needed anymore.
+
+> Users are able to create an account to store their notes online, and retrieve/synchronize notes on other devices. 
+
+> The mobile app part of this project is developed using Java and uses SQLite database and SharedPreferences to store internal data.
+
+> The web service part of this project is developed using PHP and uses MySQL database.
+
 ### - **Modules/Functonalities**
+
+> The modules of this app are:
+
+> The functionalities of this app are: 
 
 ### - **Libraries Used**
 
