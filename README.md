@@ -52,6 +52,8 @@
 
 ### - **Development Environment Setup**
 
+> The NoteBook folder contains project source codes for the mobile app while the WebService folder contains the SQL file for the database as well as PHP files for the web service. 
+
 > As the app is developed using native approach, **Android Studio** and related SDKs are required.
 
 > The project may be directly launched, then be built and deployed once Gradle sync has completed.
