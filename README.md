@@ -68,3 +68,7 @@
 
 > Please change the **URL** in the following files: **MainActivity.java**, **LoginActivity.java** and **RegisterActivity.java** to reflect the actual host name that the web service is hosted on.
 
+### - **Screenshots**
+
+https://i.imgur.com/bdTrYNv.png
+https://i.imgur.com/QUbPzsO.png
